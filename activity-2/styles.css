@@ -1,0 +1,28 @@
+body{
+  font-style: arial;
+}
+
+.number-1 {
+  font-size: 150%;
+  background-color: pink;
+}
+
+.number-2 {
+  color: blue;
+  font-size: 300%;
+}
+
+.number-3 {
+  font-size: 250%;
+  background-color: pink;
+}
+ .number-4 {
+  font-weight: bold;
+  font-size: 250%;
+  background-color:lightgreen;
+ }
+
+ .number-5 {
+   font-size: 150%;
+   background-color: pink;
+ }

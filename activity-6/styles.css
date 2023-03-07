@@ -1,0 +1,34 @@
+body{
+  font-style:normal ;
+}
+
+.bold-1 {
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.bold-2 {
+  font-weight: bold;
+  font-size: 18.3px;
+}
+
+#confirm {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: green;
+  color: white;
+}
+
+#cancel {
+  font-size: 20px;
+  background-color: white;
+}
+
+#parent {
+  font-size: 23px;
+}
+
+.smaller-child {
+  font-weight: bold;
+  font-size: 17px;
+}
